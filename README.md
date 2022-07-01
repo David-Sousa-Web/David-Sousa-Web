@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Sousa</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-sousa-web&show_icons=true&locale=en&layout=compact" alt="david-sousa-web" /></p>
+<p><img width="42%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-sousa-web&show_icons=true&locale=en&layout=compact" alt="david-sousa-web" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-sousa-web&show_icons=true&locale=en" alt="david-sousa-web" /></p>
+<p>&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=david-sousa-web&show_icons=true&locale=en" alt="david-sousa-web" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
