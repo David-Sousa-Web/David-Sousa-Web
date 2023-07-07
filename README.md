@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Sousa</h1>
-<h5 align="center">Full stack developer focused on React.js, JavaScript, TypeScript, Node.js, always learning something new within programming, I aim to grow professionally seeking opportunities to gain experience and contribute to challenging projects. Committed to learning and developing skills, aiming to build efficient and quality solutions</h5>
+<h4 align="center">Full stack developer focused on React.js, JavaScript, TypeScript, Node.js, always learning something new within programming, I aim to grow professionally seeking opportunities to gain experience and contribute to challenging projects. Committed to learning and developing skills, aiming to build efficient and quality solutions</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
