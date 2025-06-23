@@ -1,5 +1,5 @@
 # 💻 About Me:
-🔭 I’m currently working on BizSys<br>🌱 I’m currently learning Nest.js<br>👯 I’m looking to collaborate on new Projects<br>👨‍💻 All of my projects are available here at GitHub<br> 📫 How to reach me david01sousa@hotmail.com<br>⚡ Fun fact I play guitar
+🔭 I’m currently working on BizSys<br>👨‍💻 All of my projects are available here at GitHub and GitLab<br> 📫 How to reach me david01sousa@hotmail.com<br>
 
 
 ## 🌐 Socials:
